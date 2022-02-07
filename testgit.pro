@@ -16,6 +16,7 @@ HEADERS += \
     mainwindow.h
 
 FORMS += \
+    QC_Charts.ui \
     Quality_Control_Main.ui \
     Quality_Failure_Edit.ui \
     Quality_Failure_Entry.ui \
