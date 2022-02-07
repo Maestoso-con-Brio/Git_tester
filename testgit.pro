@@ -17,6 +17,7 @@ HEADERS += \
 
 FORMS += \
     Quality_Control_Main.ui \
+    Quality_Failure_Entry.ui \
     mainwindow.ui
 
 # Default rules for deployment.
