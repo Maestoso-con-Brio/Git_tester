@@ -26,3 +26,10 @@ FORMS += \
 qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
+
+DISTFILES += \
+    QC_Charts.py \
+    Quality_Control_Main.py \
+    Quality_Failure_Entry.py \
+    Quality_Failure_edit.py \
+    mainwindow.py
