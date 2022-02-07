@@ -36,15 +36,7 @@ class Ui_MainWindow(object):
 
         self.retranslateUi(MainWindow)
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
-
-class MainWindow(QtWidgets.QMainWindow):
-
-    def__init__(self):
-        super(MainWindow, self).__init__()
-
-        self.ui = Ui_MainWindow()
-        self.ui.setupUi(self)
-
+#testing edit save sdff
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate

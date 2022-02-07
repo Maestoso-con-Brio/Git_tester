@@ -1,0 +1,3 @@
+{
+    "files": ["QC_Charts.py","main.py","Quality_Control_Main.py","mainwindow.py","Quality_Failure_Entry.py","Quality_Failure_edit.py"]
+}
