@@ -16,6 +16,7 @@ HEADERS += \
     mainwindow.h
 
 FORMS += \
+    Quality_Control_Main.ui \
     mainwindow.ui
 
 # Default rules for deployment.
